@@ -1,0 +1,15 @@
+E:\Projects\Tutorial\Books\a-common-sense-guide-to-data-structures-and-algorithms\chapter-02\02-binary-search\C#\binary-search\obj\Debug\net8.0\binary-search.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Tutorial\Books\a-common-sense-guide-to-data-structures-and-algorithms\chapter-02\02-binary-search\C#\binary-search\obj\Debug\net8.0\binary-search.AssemblyInfoInputs.cache
+E:\Projects\Tutorial\Books\a-common-sense-guide-to-data-structures-and-algorithms\chapter-02\02-binary-search\C#\binary-search\obj\Debug\net8.0\binary-search.AssemblyInfo.cs
+E:\Projects\Tutorial\Books\a-common-sense-guide-to-data-structures-and-algorithms\chapter-02\02-binary-search\C#\binary-search\obj\Debug\net8.0\binary-search.csproj.CoreCompileInputs.cache
+E:\Projects\Tutorial\Books\a-common-sense-guide-to-data-structures-and-algorithms\chapter-02\02-binary-search\C#\binary-search\obj\Debug\net8.0\binary-search.sourcelink.json
+E:\Projects\Tutorial\Books\a-common-sense-guide-to-data-structures-and-algorithms\chapter-02\02-binary-search\C#\binary-search\bin\Debug\net8.0\binary-search.exe
+E:\Projects\Tutorial\Books\a-common-sense-guide-to-data-structures-and-algorithms\chapter-02\02-binary-search\C#\binary-search\bin\Debug\net8.0\binary-search.deps.json
+E:\Projects\Tutorial\Books\a-common-sense-guide-to-data-structures-and-algorithms\chapter-02\02-binary-search\C#\binary-search\bin\Debug\net8.0\binary-search.runtimeconfig.json
+E:\Projects\Tutorial\Books\a-common-sense-guide-to-data-structures-and-algorithms\chapter-02\02-binary-search\C#\binary-search\bin\Debug\net8.0\binary-search.dll
+E:\Projects\Tutorial\Books\a-common-sense-guide-to-data-structures-and-algorithms\chapter-02\02-binary-search\C#\binary-search\bin\Debug\net8.0\binary-search.pdb
+E:\Projects\Tutorial\Books\a-common-sense-guide-to-data-structures-and-algorithms\chapter-02\02-binary-search\C#\binary-search\obj\Debug\net8.0\binary-search.dll
+E:\Projects\Tutorial\Books\a-common-sense-guide-to-data-structures-and-algorithms\chapter-02\02-binary-search\C#\binary-search\obj\Debug\net8.0\refint\binary-search.dll
+E:\Projects\Tutorial\Books\a-common-sense-guide-to-data-structures-and-algorithms\chapter-02\02-binary-search\C#\binary-search\obj\Debug\net8.0\binary-search.pdb
+E:\Projects\Tutorial\Books\a-common-sense-guide-to-data-structures-and-algorithms\chapter-02\02-binary-search\C#\binary-search\obj\Debug\net8.0\binary-search.genruntimeconfig.cache
+E:\Projects\Tutorial\Books\a-common-sense-guide-to-data-structures-and-algorithms\chapter-02\02-binary-search\C#\binary-search\obj\Debug\net8.0\ref\binary-search.dll

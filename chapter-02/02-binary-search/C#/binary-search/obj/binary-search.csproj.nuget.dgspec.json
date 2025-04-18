@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\Tutorial\\Books\\a-common-sense-guide-to-data-structures-and-algorithms\\chapter-02\\01-linear-search\\C#\\linear-search\\linear-search.csproj": {}
+    "E:\\Projects\\Tutorial\\Books\\a-common-sense-guide-to-data-structures-and-algorithms\\chapter-02\\02-binary-search\\C#\\binary-search\\binary-search.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\Tutorial\\Books\\a-common-sense-guide-to-data-structures-and-algorithms\\chapter-02\\01-linear-search\\C#\\linear-search\\linear-search.csproj": {
+    "E:\\Projects\\Tutorial\\Books\\a-common-sense-guide-to-data-structures-and-algorithms\\chapter-02\\02-binary-search\\C#\\binary-search\\binary-search.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\Tutorial\\Books\\a-common-sense-guide-to-data-structures-and-algorithms\\chapter-02\\01-linear-search\\C#\\linear-search\\linear-search.csproj",
-        "projectName": "linear-search",
-        "projectPath": "E:\\Projects\\Tutorial\\Books\\a-common-sense-guide-to-data-structures-and-algorithms\\chapter-02\\01-linear-search\\C#\\linear-search\\linear-search.csproj",
+        "projectUniqueName": "E:\\Projects\\Tutorial\\Books\\a-common-sense-guide-to-data-structures-and-algorithms\\chapter-02\\02-binary-search\\C#\\binary-search\\binary-search.csproj",
+        "projectName": "binary-search",
+        "projectPath": "E:\\Projects\\Tutorial\\Books\\a-common-sense-guide-to-data-structures-and-algorithms\\chapter-02\\02-binary-search\\C#\\binary-search\\binary-search.csproj",
         "packagesPath": "C:\\Users\\owen_\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\Tutorial\\Books\\a-common-sense-guide-to-data-structures-and-algorithms\\chapter-02\\01-linear-search\\C#\\linear-search\\obj\\",
+        "outputPath": "E:\\Projects\\Tutorial\\Books\\a-common-sense-guide-to-data-structures-and-algorithms\\chapter-02\\02-binary-search\\C#\\binary-search\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
